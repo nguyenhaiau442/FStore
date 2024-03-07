@@ -4,5 +4,4 @@
 - Được viết bằng ngôn ngữ Swift
 - Kết nối đến webservice để lấy dữ liệu từ database trả về và hiển thị dữ liệu lên ứng dụng
 - Cho phép người dùng tương tác với ứng dụng như đăng ký tài khoản, đăng nhập vào ứng dụng, xem các sản phẩm, thêm vào giỏ hàng, tiến hành thanh toán,...
-
-- link demo Youtube: https://www.youtube.com/watch?v=5iST-63Vu_E&t=1s
+- Link demo Youtube: https://www.youtube.com/watch?v=5iST-63Vu_E&t=1s
